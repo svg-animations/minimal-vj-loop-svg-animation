@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="860px" height="1000px" viewBox="0 0 36.063 36.062"
+	 xml:space="preserve">
+<g>
+	<g>
+		<polygon points="12.16,7.863 12.16,13.674 17.192,10.768 		" class="rotate-anim" id="polygon1">
+		<animateTransform
+            id="polygon1"
+            attributeName="transform"
+            type="rotate"
+            from="0 14.16 12.16"
+            to="360 14.16 12.16"
+            begin="0s;polygon1.repeat"
+			repeatDur="indefinite"
+			 repeatCount="indefinite"
+            dur="5s"/>
+		</polygon>
+		<polygon points="23.901,7.863 18.87,10.768 23.903,13.674 		" id="polygon2">
+		<animateTransform
+            id="polygon2"
+            attributeName="transform"
+            type="rotate"
+            from="0 22.16 12.16"
+            to="360 22.16 12.16"
+            begin="0s;polygon1.repeat"
+			repeatDur="indefinite"
+			 repeatCount="indefinite"
+            dur="5s"/>
+		</polygon>
+		<polygon points="11.322,20.937 11.322,15.126 6.29,18.031 		" id="polygon3">
+		<animateTransform
+            id="polygon3"
+            attributeName="transform"
+            type="rotate"
+            from="0 10.16 18.16"
+            to="360 10.16 18.16"
+            begin="0s;polygon1.repeat"
+			repeatDur="indefinite"
+			 repeatCount="indefinite"
+            dur="5s"/>
+		</polygon>
+		<polygon points="12.161,28.199 17.192,25.295 12.16,22.389 		" id="polygon4">
+		<animateTransform
+            id="polygon4"
+            attributeName="transform"
+            type="rotate"
+            from="0 13.16 25.16"
+            to="360 13.16 25.16"
+            begin="0s;polygon1.repeat"
+			repeatDur="indefinite"
+			 repeatCount="indefinite"
+            dur="5s"/>
+		</polygon>
+		<polygon points="24.741,15.126 24.741,20.937 29.772,18.031 		" id="ploygon5">
+		<animateTransform
+            id="polygon5"
+            attributeName="transform"
+            type="rotate"
+            from="0 24.16 19.16"
+            to="360 24.16 19.16"
+            begin="0s;polygon1.repeat"
+			repeatDur="indefinite"
+			 repeatCount="indefinite"
+            dur="5s"/>
+		</polygon>
+		<polygon points="23.903,28.199 23.903,22.389 18.87,25.295		" id="polygon6">
+		<animateTransform
+            id="polygon6"
+            attributeName="transform"
+            type="rotate"
+            from="0 21.16 26.16"
+            to="360 21.16 26.16"
+            begin="0s;polygon1.repeat"
+			repeatDur="indefinite"
+			 repeatCount="indefinite"
+            dur="10s"/>
+		</polygon>
+		<polygon points="31.831,5.871 26.02,5.871 28.926,10.902 		" id="polygon7">
+		<animateTransform
+            id="polygon7"
+            attributeName="transform"
+            type="rotate"
+            from="0 30.16 7.16"
+            to="360 30.16 7.16"
+            begin="0s;polygon1.repeat"
+			repeatDur="indefinite"
+			 repeatCount="indefinite"
+            dur="10s"/>
+		</polygon>
+		<polygon points="10.042,5.871 4.232,5.871 7.136,10.902 		" id="polygon8">
+		<animateTransform
+            id="polygon8"
+            attributeName="transform"
+            type="rotate"
+            from="0 8 7.16"
+            to="360 8 7.16"
+            begin="0s;polygon1.repeat"
+			repeatDur="indefinite"
+			 repeatCount="indefinite"
+            dur="10s"/>
+		</polygon>
+		<polygon points="32.557,17.192 35.462,12.16 29.653,12.16 		" id="polygon9">
+		<animateTransform
+            id="polygon9"
+            attributeName="transform"
+            type="rotate"
+            from="0 31.16 13.16"
+            to="360 31.16 13.16"
+            begin="0s;polygon1.repeat"
+			repeatDur="indefinite"
+			 repeatCount="indefinite"
+            dur="10s"/>
+		</polygon>
+		<polygon points="6.41,12.16 0.6,12.16 3.505,17.192 		" id="polygon10">
+		<animateTransform
+            id="polygon10"
+            attributeName="transform"
+            type="rotate"
+            from="0 4.16 13.16"
+            to="360 4.16 13.16"
+            begin="0s;polygon1.repeat"
+			repeatDur="indefinite"
+			 repeatCount="indefinite"
+            dur="10s"/>
+		</polygon>
+		<polygon points="11.494,5.032 17.304,5.032 14.4,0 		" id="polygon11">
+		<animateTransform
+            id="polygon11"
+            attributeName="transform"
+            type="rotate"
+            from="0 14.16 3.16"
+            to="360 14.16 3.16"
+            begin="0s;polygon1.repeat"
+			repeatDur="indefinite"
+			 repeatCount="indefinite"
+            dur="10s"/>
+		</polygon>
+		<polygon points="18.758,5.032 24.569,5.032 21.663,0 		" id="polygon12">
+		<animateTransform
+            id="polygon12"
+            attributeName="transform"
+            type="rotate"
+            from="0 21.16 4.16"
+            to="360 21.16 4.16"
+            begin="0s;polygon1.repeat"
+			repeatDur="indefinite"
+			 repeatCount="indefinite"
+            dur="10s"/>
+		</polygon>
+		<polygon points="3.505,18.87 0.6,23.902 6.41,23.902 		" id="polygon13">
+		<animateTransform
+            id="polygon13"
+            attributeName="transform"
+            type="rotate"
+            from="0 3.16 22.16"
+            to="360 3.16 22.16"
+            begin="0s;polygon1.repeat"
+			repeatDur="indefinite"
+			 repeatCount="indefinite"
+            dur="10s"/>
+		</polygon>
+		<polygon points="29.653,23.902 35.462,23.902 32.557,18.87 		" id="polygon14">
+		<animateTransform
+            id="polygon14"
+            attributeName="transform"
+            type="rotate"
+            from="0 33.16 22.16"
+            to="360 33.16 22.16"
+            begin="0s;polygon1.repeat"
+			repeatDur="indefinite"
+			 repeatCount="indefinite"
+            dur="10s"/>
+		</polygon>
+		<polygon points="4.232,30.191 10.042,30.191 7.136,25.16 		" id="polygon15">
+		<animateTransform
+            id="polygon15"
+            attributeName="transform"
+            type="rotate"
+            from="0 5.16 28.16"
+            to="360 5.16 28.16"
+            begin="0s;polygon1.repeat"
+			repeatDur="indefinite"
+			 repeatCount="indefinite"
+            dur="10s"/>
+		</polygon>
+		<polygon points="26.02,30.191 31.831,30.191 28.926,25.16 		" id="polygon16">
+		<animateTransform
+            id="polygon16"
+            attributeName="transform"
+            type="rotate"
+            from="0 28.16 28.16"
+            to="360 28.16 28.16"
+            begin="0s;polygon1.repeat"
+			repeatDur="indefinite"
+			 repeatCount="indefinite"
+            dur="10s"/>
+		</polygon>
+		<polygon points="21.663,36.062 24.569,31.03 18.758,31.03 		" id="polygon17">
+		<animateTransform
+            id="polygon17"
+            attributeName="transform"
+            type="rotate"
+            from="0 22.16 35.16"
+            to="360 22.16 35.16"
+            begin="0s;polygon1.repeat"
+			repeatDur="indefinite"
+			 repeatCount="indefinite"
+            dur="10s"/>
+		</polygon>
+		<polygon points="14.4,36.062 17.304,31.03 11.494,31.03 		" id="polygon18">
+		<animateTransform
+            id="polygon18"
+            attributeName="transform"
+            type="rotate"
+            from="0 11.16 34.16"
+            to="360 11.16 34.16"
+            begin="0s;polygon1.repeat"
+			repeatDur="indefinite"
+			 repeatCount="indefinite"
+            dur="10s"/>
+		</polygon>
+	</g>
+</g>
+</svg>
